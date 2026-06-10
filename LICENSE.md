@@ -1,4 +1,4 @@
-# 
+# VIP Pixelle-Video extensões. Com computação de borda e preservação de privacidade — otimizado para máximo desempenho e eficiência.
 
 
 
